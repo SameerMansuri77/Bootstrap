@@ -1,0 +1,25 @@
+.hed{
+    text-align: center;
+    height: 500px;
+    width: 100%;
+    background-color: azure;
+    border: 1px solid grey;
+    position: relative;
+}
+#cont{
+    border: 2px solid aqua;
+    height: 200px;
+    width: 80%;
+}
+#link{
+    font-size: 20px;
+    color:blueviolet;
+
+}
+#btn{
+    font-size: 10px;
+    height: 30px;
+    width: 60px;
+    background-color: black;
+    color: azure;
+}
